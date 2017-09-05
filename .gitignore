@@ -1,0 +1,4 @@
+# files and folders to exclude
+*.tmp	# Ignore the files having extension ".tmp"
+log.txt	# Ignore the file log.txt
+/bin/
